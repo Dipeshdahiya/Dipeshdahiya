@@ -1,8 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Dipesh+Dahiya" align="middle" alt="Hey, I'm Dipesh Dahiya, Welcome to my Profile! animated typed out">
 <img  src="borderseperator.gif">
-<div style="overflow: hidden; height: 60%;">
-  <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="transform: translateY(-20%); width: 100%; object-fit: cover;style="overflow: hidden; height: 60%;">
-</div>
+<img src="topgif.gif">
+
 
 # 🤯 What Have I Gotten Myself Into?
 🎓 **Serious about studies**, but don’t be surprised if you catch me coding at midnight with pizza in hand 🍕!<br>💻 Passionate **Web Developer**, always on the hunt for new ways to craft sleek, functional websites.<br>🔍 Exploring the world of **Data Analytics** — from numbers to insights, and sometimes a *few surprises* 🧐.<br>🚀 A proud **hackathon enthusiast**, equipped with caffeine, creativity, and those last-minute *eureka* moments 💡.<br>🎮 In my free time? You'll find me *button mashing* or marathoning tech documentaries 🎥.<br>🍕 Fuelled by **snacks**, **memes**, and the *inevitable bug fix*.<br>🌟 On a mission to contribute to **open-source projects** and make a meaningful impact in the tech community.<br><br>Check out my latest projects below! Let’s connect, code, and share ideas 🚀.<br>
