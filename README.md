@@ -25,7 +25,7 @@
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent) <br>
-
+<img  src="borderseperator.gif">
 <img src="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b-ezgif.com-crop.gif">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
