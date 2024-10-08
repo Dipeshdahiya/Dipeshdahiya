@@ -25,6 +25,8 @@
 # <img src="240814242-2c79649a-b04c-4c78-998f-c126db48305c.png" width="40px" align="left" > GitHub Trophies 
  ![](https://github-profile-trophy.vercel.app/?username=Dipeshdahiya&theme=radical&no-frame=false&no-bg=true&margin-w=4) <br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jiwwmbkgrayxqqcufaxkvcryfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jiwwmbkgrayxqqcufaxkvcryfm&redirect=true)
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent) <br>
 <img  src="borderseperator.gif">
